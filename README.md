@@ -56,7 +56,6 @@ f1.withdraw(100)
 print(f1.getbalance())
 print(f1.getinfo())
 f1.exit()
-print(f1.getinfo())   # never runs, see note below
 ```
  
 ## Example Output
